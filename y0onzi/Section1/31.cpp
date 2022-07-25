@@ -27,6 +27,5 @@ int main(){
 	}
 	
 	printf("%d",  c*12 + h);
-	
 	return 0;
 }
