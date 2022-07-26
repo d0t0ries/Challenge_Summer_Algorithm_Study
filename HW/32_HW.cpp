@@ -13,7 +13,7 @@ int main() {
         for (i =0; i<n; i++) {
             scanf("%d", &arr[i]); //for 문 없이도 받을 수 있는지 확인
         }
-        for (i = 0; i < n; i++) {
+        for (i = 0; i < n-1; i++) {
             min = i;
             for (j = i+1; i < n; j++) {
                 if (arr[min] > arr[j]) {
