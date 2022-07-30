@@ -6,8 +6,10 @@
 // 입력 예제
 // 출력 예제
 
-/*--알고리즘 생각해보기--*/
-/* */
+/* 알고리즘 생각해보기
+/ 
+/
+*/
 
 #include <iostream>
 using namespace std;
