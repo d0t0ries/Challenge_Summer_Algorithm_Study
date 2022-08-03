@@ -20,7 +20,7 @@ int Count(int s){
 int main(){ 
 	//freopen("input.txt", "rt", stdin);
 
-	int i, m, lt=1, rt, mid, sum=0, answer, cnt, max=-2147000000; 
+	int i, m, lt=1, rt, mid, sum=0, answer, max=-2147000000; 
 	
 	scanf("%d %d", &n, &m);
 
